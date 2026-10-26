@@ -1,0 +1,7 @@
+streamlit
+scikit-learn==SKLEARN_VERSION
+numpy
+pandas
+matplotlib
+seaborn
+joblib
