@@ -1,5 +1,5 @@
 streamlit
-scikit-learn==SKLEARN_VERSION
+scikit-learn==1.4.1.post1
 numpy
 pandas
 matplotlib
