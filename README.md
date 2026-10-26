@@ -1,9 +1,9 @@
 # Credit Default Risk Lab — ML Assignment 2
 
 **M.Tech (AIML), BITS Pilani WILP — Machine Learning**
-Student: Sandip Chaudhari (2026AJ05296)
+Student:  Chaudhari Sandip Chandrakant Mamta (2026AJ05296)
 
-**Live app:** https://YOUR-APP-NAME.streamlit.app
+**Live app:** https://ml-assignment2-6op8hrhzjablqffptkztgr.streamlit.app/
 **Repository:** https://github.com/2026aj05296/ml-assignment2
 
 ---
