@@ -78,7 +78,7 @@ Reproduce: `pip install -r requirements.txt ucimlrepo` → `python model/train_m
 | Decision Tree | **0.8196** | **0.7476** | 0.6623 | 0.3771 | 0.4805 | **0.4033** |
 | KNN | 0.8086 | 0.7395 | 0.6330 | 0.3213 | 0.4262 | 0.3528 |
 | Naive Bayes | 0.6915 | 0.7283 | 0.3864 | **0.6704** | **0.4902** | 0.3140 |
-| Support Vector Machine | 0.8163 | 0.7173 | 0.6718 | 0.3318 | 0.4442 | 0.3802 |
+| Support Vector Machine | 0.8163 | 0.7174 | 0.6718 | 0.3318 | 0.4442 | 0.3802 |
 
 *Positive class = default (1). Precision, Recall and F1 are for the default class. Best value per metric in bold.*
 
